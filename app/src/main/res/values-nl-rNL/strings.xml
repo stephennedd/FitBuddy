@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">FitBuddy</string>
+    <string name="client_picture" translatable="true">Klant Profiel Foto</string>
+    <string name="add_client_name">Naam</string>
+    <string name="add_client_age">Leeftijd</string>
+    <string name="add_client_height">Hoogte</string>
+    <string name="add_client_weight">Gewicht</string>
+    <string name="add_client_tweight">Doel Gewicht</string>
+    <string name="add_client_button">Klant Toevoegen</string>
+    <string name="add_client_gender_male">Man</string>
+    <string name="add_client_gender_female">Vrouw</string>
+    <string name="add_client_title">Klant Toevoegen</string>
+    <string name="client_details_title">Klant Gegevens</string>
+    <string name="Workouts">Workout Lijst:</string>
+    <string name="update_client">Klant bewerken</string>
+    <string name="add_workout_title">Workout Toevoegen</string>
+    <string name="add_workout_button">Workout Toevoegen</string>
+    <string name="menu_client_progress">Klant verloop</string>
+    <string name="progress_button">Klaar</string>
+    <string name="current_weight">Huidige gewicht</string>
+</resources>

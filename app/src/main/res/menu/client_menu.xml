@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/client_progress"
+        android:enabled="true"
+        android:icon="@drawable/ic_golf_course_black_24dp"
+        android:title="@string/menu_client_progress"
+        app:showAsAction="ifRoom" />
+</menu>

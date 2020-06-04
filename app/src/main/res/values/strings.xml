@@ -1,0 +1,24 @@
+<resources>
+    <string name="app_name" translatable="false">FitBuddy</string>
+    <string name="client_picture">Client Profile Picture</string>
+    <string name="add_client_name">Name</string>
+    <string name="add_client_age">Age</string>
+    <string name="add_client_height">Height (m)</string>
+    <string name="add_client_weight">Weight (kg)</string>
+    <string name="add_client_tweight">Target Weight</string>
+    <string name="add_client_gender_female">Female</string>
+    <string name="add_client_button">Add Client</string>
+    <string name="add_client_gender_male">Male</string>
+    <string name="client_status" translatable="false">noStatus</string>
+    <string name="add_client_title">Add Client</string>
+    <string name="client_details_title">Client Information</string>
+    <string name="Workouts">Workout List:</string>
+    <string name="update_client">Update client</string>
+    <string name="update_client_status" translatable="false">Status</string>
+    <string name="add_workout_title">Add Workout</string>
+    <string name="add_workout_button">Add Workout</string>
+    <string name="menu_client_progress">Client progress</string>
+    <string name="progress_button">Done</string>
+    <string name="current_weight">Current weight</string>
+
+</resources>
